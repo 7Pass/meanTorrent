@@ -17,7 +17,7 @@
   ],
   "addons": [
     {
-      "plan": "mongolab:sandbox"
+      "plan": "ormongo:2-wt"
     },
     {
       "plan": "papertrail:choklad"
