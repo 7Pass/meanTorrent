@@ -17,7 +17,7 @@
   ],
   "addons": [
     {
-      "plan": "ormongo:2-wt"
+      "plan": "heroku-postgresql:hobby-dev"
     },
     {
       "plan": "papertrail:choklad"
