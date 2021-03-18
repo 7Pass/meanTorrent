@@ -1,7 +1,7 @@
 {
   "name": "meanTorrent",
   "description": "MEAN.JS BitTorrent - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js, a Private BitTorrent Tracker CMS",
-  "repository": "https://github.com/taobataoma/meanTorrent",
+  "repository": "https://github.com/7Pass/meanTorrent",
   "logo": "http://meanjs.org/img/logo-small.png",
   "keywords": [
     "mongodb",
