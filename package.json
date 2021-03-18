@@ -111,7 +111,7 @@
     "passport-twitter": "~1.0.4",
     "run-sequence": "~2.1.0",
     "serve-favicon": "^2.5.0",
-    "sharp": "^0.19.1",
+    "sharp": "^0.27.2",
     "shelljs": "^0.8.1",
     "snyk": "^1.78.1",
     "socket.io": "~2.0.2",
