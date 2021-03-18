@@ -16,12 +16,6 @@
     "announce"
   ],
   "addons": [
-    {
-      "plan": "ormongo:2-wt"
-    },
-    {
-      "plan": "papertrail:choklad"
-    }
   ],
   "env": {
     "NPM_CONFIG_PRODUCTION": "true",
