@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/abirxox/meanTorrent/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/7Pass/meanTorrent/tree/master)
 
 # meanTorrent - A Private BitTorrent Tracker CMS based on [meanjs/mean](https://github.com/meanjs/mean),  and here is the [DEMO Site](http://mean.im)
 
